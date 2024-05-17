@@ -1,0 +1,20 @@
+.contenedor {
+    /*background-color:;*/
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    min-height: 10px;
+    height: 195px;
+    margin: 20px;
+}
+
+body {
+    background-color: rgba(252, 185, 235, 0.9) ;
+}
+
+.circulo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
