@@ -3,7 +3,7 @@
     padding: 30px;/*Espacio que hay entre el borde*/
     border-radius: 20px;
     border: 2px solid black;
-    min-height: 10px;
+    min-height: 10 px;
     height: 195px;
     margin: 50px;
     /*margin-top: -60px;*/
